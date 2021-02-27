@@ -1,0 +1,23 @@
+I"â<ul>
+  <li>
+    <p><strong>Axiom 1</strong> To every quantum system there is associated a separable complex Hilbert space \(( \mathcal{H}, + , \cdot , \langle \cdot \vert \cdot \rangle \, )\). The states of the system are all positive, trace-class linear maps \(\rho :  \mathcal{H} \to  \mathcal{H}\)  for which \(\text{Tr} \, \rho = 1\).</p>
+  </li>
+  <li>
+    <p><strong>Axiom 2</strong> (Observables). Tue <em>observable</em> of a quantum system are the self-adjoint linear maps \(A :  \mathcal{D}_{A} \to  \mathcal{H}\).</p>
+  </li>
+  <li>
+    <p><strong>Axiom 3</strong> (Measurement). The probability that a measurement of an observable \(A\) on a system that is in the state \(\rho\) yields a result in the Borel set \(E\) of real numbers given by $$ \mu(E) \; = \; \text{Tr} \left( \, \mathrm{P}_A (E) \, \rho \, \right) $$ where \(\mathrm{P}_A\) is map from the Borel-measurable subset of the real numbers to the Banach space of bounded linear maps on \(\mathcal{H}\) and is defined as the unique projection-valued measure that is associated with \(A\) according to the spectral theorem.</p>
+  </li>
+</ul>
+
+<p><br /></p>
+<hr />
+
+<p><br />
+References:</p>
+<ol>
+  <li>Quantum Mechanics, A New Introduction. Kenichi Konishi, Giampiero Paffuti,</li>
+  <li>Quantum Mechanics, A Modern Development. Leslie E. Ballentine,</li>
+  <li><a href="https://github.com/RichieDadhley/Lectures-on-Quantum-Theory/tree/master/schuller-quantum-master">Frederic Schullerâ€™s Lectures on Quantum Theory</a>.</li>
+</ol>
+:ET
